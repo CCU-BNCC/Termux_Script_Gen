@@ -1,0 +1,4 @@
+gpt4all
+speechrecognition
+gtts
+termux-api
